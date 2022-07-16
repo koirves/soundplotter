@@ -1,5 +1,4 @@
 import math
-from re import S
 from typing import List
 
 class complex:
